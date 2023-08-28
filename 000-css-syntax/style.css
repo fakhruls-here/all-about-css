@@ -1,0 +1,12 @@
+/* h1, p, br, hr => its called elements/tags */
+/* {} => its called carly basis */
+/* () => its called parenthisis  */
+/* [] => its called 3rd brakets */
+/* size mazerment er jonno amra ( px, %, em, rem ) */
+/* h1=> h1 called selectors */
+/* color => color called property */
+/* red => red called Value  */
+/* color: red; => (Property+values) called declaration  */
+h1{
+    color: red; /* hole lines called declaration*/
+}

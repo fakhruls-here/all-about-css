@@ -1,0 +1,24 @@
+body{
+  background: #922819;
+}
+h1, h2{
+  color: aqua;
+}
+div{
+  height: 200px;
+  width: 200px;
+  background: #55290e;
+  border: 1px solid white;
+  margin-top: 5px;
+}
+div p{
+  color: blanchedalmond;
+  text-align: justify;
+}
+.para2{
+  color: aqua;
+}
+.divider3{
+  height: 300px;
+  width: 300px;  
+}
