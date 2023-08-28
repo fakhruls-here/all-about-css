@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://picsum.photos/200/300);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#background_color{
+    background: #f7dede;
+    border: 1px solid red;
+    margin-top: 5px;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    padding: 10px;
+}
+#background_image{
+    border: 1px solid red;
+    margin-top: 5px;
+    background-image: url(https://picsum.photos/200/100);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
