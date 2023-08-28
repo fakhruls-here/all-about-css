@@ -1,0 +1,51 @@
+body{
+    background: #c4a6a6;
+}
+#colorName{
+    /* background: black; */
+    color: aliceblue;
+}
+#colorName span{
+    background: black;
+    padding: 5px;
+}
+#hexadecimal{
+    /* background: #000000; */
+    color: aliceblue;
+}
+#hexadecimal span{
+    background: #000000;
+    padding: 5px;
+}
+#rgb{
+    /* background: rgb(0, 0, 0); */
+    color: aliceblue;
+}
+#rgb span{
+    background: rgb(0, 0, 0);
+    padding: 5px;
+}
+#rgba{
+    /* background: rgba(0, 0, 0, 0.692); */
+    color: aliceblue;
+}
+#rgba span{
+    background: rgba(0, 0, 0, 0.6);
+    padding: 5px;
+}
+#hsl{
+    /* background: hsl(0, 0%, 0%); */
+    color: aliceblue;
+}
+#hsl span{
+    background: hsl(0, 0%, 0%);
+    padding: 5px;
+}
+#hsla{
+    /* background: hsla(0, 0%, 0%, 0.671); */
+    color: aliceblue;
+}
+#hsla span{
+    background: hsla(0, 0%, 0%, 0.6);
+    padding: 5px;
+}
