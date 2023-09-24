@@ -1,0 +1,99 @@
+body,html{
+    background: #6e6565;
+}
+div{
+    margin-top: 10px;
+    border: 1px solid red;
+}
+div p{
+    padding: 15px;
+}
+
+/* .cart_one */
+.cart_one h2{
+    text-align: center;
+    background: #ac9292;
+}
+
+/* .cart_two */
+.cart_two h2{
+    text-align: right;
+    background: #ac9292;
+}
+.cart_two p{
+    text-align-last: center;
+}
+
+/* .cart_three */
+.cart_three h2{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+.cart_three p{
+    text-align: justify;
+}
+
+/* cart_four */
+.baseline{
+    vertical-align: baseline;
+}
+.text-top{
+    vertical-align: text-top;
+}
+.text-bottom{
+    vertical-align: text-bottom;
+}
+.super{
+    vertical-align: super;
+}
+.sub{
+    vertical-align: sub;
+}
+
+/* Controlling text-decoration */
+.link{
+    text-align: center;
+    padding: 10px;
+}
+.link-1{
+    text-decoration: underline;
+    color: red;
+}
+.link-2{
+    text-decoration: overline;
+    color: red;
+}
+.link-3{
+    text-decoration: line-through;
+    color: red;
+}
+.link-4{
+    text-decoration: underline overline line-through;
+    color: red;
+}
+.link-5{
+    text-decoration: none;
+    color: red;
+}
+
+/* controlling text-transform */
+.text-transform h3{
+    text-align: center;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.none{
+    text-transform: none;
+}
+
+/* controlling text-indent */
+p{
+    text-indent: 50px;
+}

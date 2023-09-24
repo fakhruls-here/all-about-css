@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+caption, table, th, td{
+    border: 1px solid red;
+    border-collapse: collapse;
+    padding: 5px;
+}
+td:hover{
+    background: #000;
+    color: antiquewhite;
+}
+th:hover{
+    background: rebeccapurple;
+}
+tr:active{
+    background: yellow;
+}
